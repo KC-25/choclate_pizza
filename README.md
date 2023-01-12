@@ -40,3 +40,8 @@ Today is all about planning.  After you have created a GitHub repo, added your p
 
 ## Submission
 Submit a link to your starter repo.  You will begin coding tomorrow.
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
