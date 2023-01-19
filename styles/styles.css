@@ -9,16 +9,27 @@ header{
     display:flex;
     flex-direction:row;
     justify-content:flex-start;
-    margin-bottom: 5%;
+    margin-bottom:3%;
+    
 }
 
 header h1{
-    font-size:xxx-large;
+    font-size:270%;
     font-family: 'Pacifico', cursive;
+    font-style: italic;
 }
+li section p{
+    font-family: 'PT Sans Narrow', cursive;
+    margin-left: 4%;
+}
+
 
 #logo{
     width: 5%;
+}
+
+#spacing{
+    margin-left: 52%;
 }
 
 #weirdspace{
@@ -36,4 +47,11 @@ img{
 #bigimg{
     display:flex;
     justify-content: center;
+    width: 100%;
+
 }
+
+.hero-image {
+    background-image: url(/img/hr-img.png);
+    height: 20px;
+  }
