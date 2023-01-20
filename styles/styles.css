@@ -86,5 +86,11 @@ nav{
     background-image: url(/img/list-bg.png);
     font-family: 'Kalam', cursive;
     font-size: xx-large;
-    padding: 1
+    padding: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+P{
+    margin-top: 3%;
 }
