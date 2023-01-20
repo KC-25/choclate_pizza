@@ -21,6 +21,7 @@ header h1{
 li section p{
     font-family: 'PT Sans Narrow', cursive;
     margin-left: 4%;
+    color: rgb(73, 73, 73);
 }
 
 
@@ -29,7 +30,7 @@ li section p{
 }
 
 #spacing{
-    margin-left: 52%;
+    margin-left: 60%;
 }
 
 #weirdspace{
@@ -54,4 +55,36 @@ img{
 .hero-image {
     background-image: url(/img/hr-img.png);
     height: 20px;
+    margin-bottom: 7%;
   }
+
+#CP{
+    font-family:'Passion One', cursive;
+    font-size: 350%;
+}
+
+#CP6{
+    color: darkgray;
+    font-family: 'PT Sans Narrow', cursive;
+    font-size: larger;
+}
+
+#print{
+    font-family: 'PT Sans Narrow', cursive;
+    color: darkgray;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 3%;
+}
+
+#checklist{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(/img/list-bg.png);
+    font-family: 'Kalam', cursive;
+    font-size: xx-large;
+    padding: 1
+}
