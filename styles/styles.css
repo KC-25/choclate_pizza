@@ -94,3 +94,41 @@ nav{
 P{
     margin-top: 3%;
 }
+
+#vannesa{
+    width: 5%;
+    margin-right: 2%;
+}
+
+#v{
+    color: rgb(94, 94, 94);
+    display: flex;
+    font-size: x-large;
+    flex-direction: row;
+}
+
+#van{
+    font-weight: bold;
+    color: gray;
+}
+
+#button{
+    background-color: rgb(157, 50, 0);
+    color: white;
+    font-family:'PT Sans Narrow', cursive;
+    font-size: large;
+    padding-left: 4%;
+    padding-right: 4%;
+    height: 60px;
+margin-bottom: 10%;
+    /* margin-left: 50%; */
+}
+
+#check{
+    text-decoration: line-through;
+}
+
+#smalllogo{
+    margin: auto;
+    width: 4%;
+}
